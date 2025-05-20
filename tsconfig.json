@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "rootDir": "src",
+      "outDir": "dist",
+      "sourceMap": true,
+  
+      "lib": ["ES2021", "DOM"],
+      "module": "commonjs",
+      "target": "ES2021",
+      
+      "skipLibCheck": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true
+    }
+  }
